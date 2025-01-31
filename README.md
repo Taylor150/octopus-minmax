@@ -1,5 +1,7 @@
 # Octopus Minmax Bot 🐙🤖
 
+Forked to work for other tarrifs (such as Cosy)
+
 ## Description
 This bot will use your electricity usage and compare your current Smart tariff costs for the day with another smart tariff and initiate a switch if it's cheaper. Currently it switches only between Octopus Agile and Octopus Go.
 
